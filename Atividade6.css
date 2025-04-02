@@ -1,0 +1,31 @@
+.container {
+    border: 5px solid skyblue;
+    overflow: auto;
+    text-align: center;
+}
+.container2 {
+    border: 10px solid purple;
+    overflow: auto;
+
+
+}
+.container3 {
+    border: 5px solid orangered;
+    float: right;
+
+}
+.imagem {
+    border: solid green;
+    float: left;
+
+}
+.imagem4 {
+    float: right;
+    border: 5px solid lightgreen;
+    margin: 40px;
+}
+.imagem4 {
+    float: right;
+    border: 5px solid lightgreen;
+    margin: 40px;
+ }
